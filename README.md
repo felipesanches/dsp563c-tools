@@ -186,6 +186,6 @@ Feel free to join us on [Discord](https://discord.gg/x6epkzvHXx) if you'd like t
 
 ### External Resources
 
-* https://github.com/mamedev/mame/blob/master/src/mame/drivers/acvirus.cpp
+* https://github.com/mamedev/mame/blob/master/src/mame/access/acvirus.cpp
 * https://adriangin.wordpress.com/2018/09/27/virus-ti-hardware-firmware/
 * https://www.chameleon.synth.net/
